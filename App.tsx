@@ -7,7 +7,7 @@ import { RFValue } from "react-native-responsive-fontsize";
 export default function App() {
   return (
     <View style={styles.container}>
-      <StatusBar style="dark"/>
+      <StatusBar style="auto"/>
       <WebView source={{ uri: 'https://reactnative.dev/' }}/>
     </View>
   );
