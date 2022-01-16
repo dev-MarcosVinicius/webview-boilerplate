@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "webview-boilerplate",
+    "slug": "webview-boilerplate",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "webview-boilerplate"
+}
