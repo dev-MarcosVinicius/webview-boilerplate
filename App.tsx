@@ -8,7 +8,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <StatusBar style="auto"/>
-      <WebView source={{ uri: 'https://reactnative.dev/' }}/>
+      <WebView source={{ uri: 'https://app.rocketseat.com.br/' }}/>
     </View>
   );
 }
