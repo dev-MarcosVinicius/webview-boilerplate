@@ -7,7 +7,7 @@
       "**/*"
     ],
     "android": {
-      "package": "com.markvv.webview-boilerplate"
+      "package": "com.markvv.webview"
     }
   },
   "name": "webview-boilerplate",
