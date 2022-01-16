@@ -5,7 +5,15 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "android": {
+      "package": "com.markvv.webview-boilerplate"
+    }
   },
-  "name": "webview-boilerplate"
+  "name": "webview-boilerplate",
+  "splash": {
+    "image": "./assets/logo.png",
+    "resizeMode": "contain",
+    "backgroundColor": "#000000"
+  }
 }
